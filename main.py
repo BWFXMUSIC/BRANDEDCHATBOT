@@ -133,11 +133,11 @@ async def restart(client, m: Message):
         await asyncio.sleep(1)
         await accha.edit("💨𝗚𝗥𝗢𝗨𝗣 𝗝𝗢𝗜𝗡 𝗞𝗥 𝗟𝗢 🌷°‌⁪༎꯭ࠫ𝆺𝅥•๋⸙‌ٖٖٖٖٖٖٜٖٖ 💌 🍷 https://t.me/BWF_MUSIC1 🍷💨𝗣𝗟𝗦 𝗜𝗡𝗧𝗘𝗭𝗔𝗥 𝗞𝗔𝗥 𝗥𝗛𝗜 𝗛𝗨 🍒🥀✨")
         await asyncio.sleep(0.5)
-        await accha.edit("🦋𝗡𝗢𝗪 𝗖𝗢𝗠𝗘 𝗛𝗘𝗥𝗘 👉 @BRANDED_WORLD , @BRANDRD_BOT , @BRANDED_PAID_CC 𝗔𝗡𝗗 𝗠𝗔𝗞𝗘 𝗬𝗢𝗨𝗥 𝗚𝗜𝗥𝗟𝗙𝗥𝗜𝗡𝗗 🥀 𝗜𝗙 𝗬𝗢 𝗛𝗔𝗩𝗘 𝗔 𝗚𝗜𝗥𝗟𝗙𝗜𝗘𝗡𝗗  😘 𝗧𝗛𝗘𝗡 𝗬𝗢𝗨 𝗪𝗜𝗟𝗟 𝗚𝗜𝗙𝗧 🙊 𝗧𝗢 𝗠𝗬 𝗢𝗪𝗡𝗘𝗥 @BRANDEDKING8 ❤️")
+        await accha.edit("━━━━━━━━━━━━━━━━━━━━━━━━\n\n💨 ʜᴇʟʟᴏ, ᴍᴇ ɪs ʙω͠ғ ᴄʜᴀᴛʙᴏᴛ ғᴀsᴛ ᴘʟᴀʏᴇʀ\nʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs⚚‎🍒 ..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣💨 ᴄʀᴇᴀᴛᴇʀ    :<a href=\"https://t.me/BWF_MUSIC1\">ᴀsʜɪsʜ</a> \n┣💌 𝗦ԩ𝐚ʏя𝗼 › : <a href=\"https://t.me/SHAYRI_CHANNEL1\">𝗦ԩ𝐚ʏя𝗼</a> ┓ \n┣💬 sᴜᴘᴘᴏʀᴛ › : <a href=\"https://t.me/BWF_MUSIC1\">Gʀᴏᴜᴘꨄ︎ʙω͠ғ</a>\n┣👻 ʙω͠ғꨄ︎ᴍᴜsɪᴄ › : <a href=\"https://t.me/MUSICBOT_OWNER\">ɴᴇᴛᴡᴏʀᴋ</a> \n┣👑 ᴅᴍ ᴛᴏ ᴍʏ <a href=\"https://t.me/L2R_KING\">ᴏᴡɴᴇʀ</a>...\n━━━━━━━━━━━━━━━━━━━━━━━━")
         await asyncio.sleep(0.5)
-        await accha.edit("🦋𝗡𝗢𝗪 𝗖𝗢𝗠𝗘 𝗛𝗘𝗥𝗘 👉 @BRANDED_WORLD , @BRANDRD_BOT , @BRANDED_PAID_CC 𝗔𝗡𝗗 𝗠𝗔𝗞𝗘 𝗬𝗢𝗨𝗥 𝗚𝗜𝗥𝗟𝗙𝗥𝗜𝗡𝗗 🥀 𝗜𝗙 𝗬𝗢 𝗛𝗔𝗩𝗘 𝗔 𝗚𝗜𝗥𝗟𝗙𝗜𝗘𝗡𝗗  😘 𝗧𝗛𝗘𝗡 𝗬𝗢𝗨 𝗪𝗜𝗟𝗟 𝗚𝗜𝗙𝗧 🙊 𝗧𝗢 𝗠𝗬 𝗢𝗪𝗡𝗘𝗥 @BRANDEDKING8 ❤️")
+        await accha.edit("━━━━━━━━━━━━━━━━━━━━━━━━\n\n💨 ʜᴇʟʟᴏ, ᴍᴇ ɪs ʙω͠ғ ᴄʜᴀᴛʙᴏᴛ ғᴀsᴛ ᴘʟᴀʏᴇʀ\nʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs⚚‎🍒 ..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣💨 ᴄʀᴇᴀᴛᴇʀ    :<a href=\"https://t.me/BWF_MUSIC1\">ᴀsʜɪsʜ</a> \n┣💌 𝗦ԩ𝐚ʏя𝗼 › : <a href=\"https://t.me/SHAYRI_CHANNEL1\">𝗦ԩ𝐚ʏя𝗼</a> ┓ \n┣💬 sᴜᴘᴘᴏʀᴛ › : <a href=\"https://t.me/BWF_MUSIC1\">Gʀᴏᴜᴘꨄ︎ʙω͠ғ</a>\n┣👻 ʙω͠ғꨄ︎ᴍᴜsɪᴄ › : <a href=\"https://t.me/MUSICBOT_OWNER\">ɴᴇᴛᴡᴏʀᴋ</a> \n┣👑 ᴅᴍ ᴛᴏ ᴍʏ <a href=\"https://t.me/L2R_KING\">ᴏᴡɴᴇʀ</a>...\n━━━━━━━━━━━━━━━━━━━━━━━━")
         await asyncio.sleep(0.5)
-        await accha.delete("🦋𝗡𝗢𝗪 𝗖𝗢𝗠𝗘 𝗛𝗘𝗥𝗘 👉 @BRANDED_WORLD , @BRANDRD_BOT , @BRANDED_PAID_CC 𝗔𝗡𝗗 𝗠𝗔𝗞𝗘 𝗬𝗢𝗨𝗥 𝗚𝗜𝗥𝗟𝗙𝗥𝗜𝗡𝗗 🥀 𝗜𝗙 𝗬𝗢 𝗛𝗔𝗩𝗘 𝗔 𝗚𝗜𝗥𝗟𝗙𝗜𝗘𝗡𝗗  😘 𝗧𝗛𝗘𝗡 𝗬𝗢𝗨 𝗪𝗜𝗟𝗟 𝗚𝗜𝗙𝗧 🙊 𝗧𝗢 𝗠𝗬 𝗢𝗪𝗡𝗘𝗥 @BRANDEDKING8 ❤️")
+        await accha.delete("━━━━━━━━━━━━━━━━━━━━━━━━\n\n💨 ʜᴇʟʟᴏ, ᴍᴇ ɪs ʙω͠ғ ᴄʜᴀᴛʙᴏᴛ ғᴀsᴛ ᴘʟᴀʏᴇʀ\nʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs⚚‎🍒 ..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣💨 ᴄʀᴇᴀᴛᴇʀ    :<a href=\"https://t.me/BWF_MUSIC1\">ᴀsʜɪsʜ</a> \n┣💌 𝗦ԩ𝐚ʏя𝗼 › : <a href=\"https://t.me/SHAYRI_CHANNEL1\">𝗦ԩ𝐚ʏя𝗼</a> ┓ \n┣💬 sᴜᴘᴘᴏʀᴛ › : <a href=\"https://t.me/BWF_MUSIC1\">Gʀᴏᴜᴘꨄ︎ʙω͠ғ</a>\n┣👻 ʙω͠ғꨄ︎ᴍᴜsɪᴄ › : <a href=\"https://t.me/MUSICBOT_OWNER\">ɴᴇᴛᴡᴏʀᴋ</a> \n┣👑 ᴅᴍ ᴛᴏ ᴍʏ <a href=\"https://t.me/L2R_KING\">ᴏᴡɴᴇʀ</a>...\n━━━━━━━━━━━━━━━━━━━━━━━━")
         umm = await m.reply_sticker(
                   sticker = STKR,
         )
